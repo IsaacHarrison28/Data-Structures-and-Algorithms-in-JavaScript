@@ -1,0 +1,5 @@
+# WHAT ARE SETS
+
+Sets are a type of data structure that allows developers to add unique data to a storage and not replicas of each other. The typical use of a sets data structure is in the collections of an accounts number of followers and following; no single account can follow another account more than once. This means the account holds a unique key in some storage system such as data base that allows the algorithm to detect that the account already follows another and therefore a second follow cannot be executed!
+However, this repository is not meant to be long in readings provided to its users and therefore, the author thinks that the link provided here would be good to rpovide some more information on this topic:
+[Read On Sets](https://www.geeksforgeeks.org/introduction-to-set-data-structure-and-algorithm-tutorials/)
