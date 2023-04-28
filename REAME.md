@@ -12,4 +12,4 @@ Learning data structures and algorithms is not as easy as it may be said to be, 
 ## CAN YOU CONTRIBUTE TO THIS REPOSITORY
 
 Of course, this is a project meant to help any developer interested in utilising the resource and therefore you are welcome to contribute any useful resource to this repository. That might be, seeing mistakes in this repository that needs fixing or even non coding related contributions such as correcting grammar and spelling in this repository.
-I recommend that you read the CONTRIBUTING.md resource for more detailed information on how to contribute to this repository. 
+The author recommend that you read the CONTRIBUTING.md resource for more detailed information on how to contribute to this repository. 
